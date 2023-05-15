@@ -76,7 +76,6 @@ aside > a > span {
 	margin: 20px 10px;
 	border-radius: 5px;
 	box-shadow: 0 0 4px #d4d4d4;
-	background-color: #fff;
 }
 
 .card > img {
@@ -89,10 +88,41 @@ aside > a > span {
 }
 
 .card .title {
-	color: var(--red);
 	margin-bottom: 5px;
 }
 
 footer {
 	padding: 20px;
+}
+
+/* media query */
+@media only screen and (min-width: 1024px) {
+	.card {
+		background-color: #fff;
+	}
+
+	.card .title {
+		color: var(--red);
+	}
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+	.card {
+		background-color: var(--red);
+	}
+
+	.card .title {
+		color: #fff;
+	}
+}
+
+@media only screen and (max-width: 787px) {
+	.card {
+		background-color: #fff;
+		border: 3px solid var(--red);
+	}
+
+	.card .title {
+		color: var(--red);
+	}
 }
