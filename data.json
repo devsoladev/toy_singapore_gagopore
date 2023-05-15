@@ -1,0 +1,114 @@
+[
+	{
+		"id": 1,
+		"type": "spot",
+		"thumbnail_path": "./images/marinabay.jpeg",
+		"title": "마리나 베이",
+		"description": "트렌디한 식사 장소부터 흥미진진한 레저까지 현대적이고 스타일리쉬한 모든 것을 대표합니다."
+	},
+	{
+		"id": 2,
+		"type": "spot",
+		"thumbnail_path": "./images/gardensbythebay.jpeg",
+		"title": "가든스 바이 더 베이",
+		"description": "초현실적인 풍경, 낙원 같은 공간, 울창한 녹지에서 자연의 아름다움을 만끽해보세요."
+	},
+	{
+		"id": 3,
+		"type": "spot",
+		"thumbnail_path": "./images/sentosa.jpeg",
+		"title": "센토사 섬",
+		"description": "자연 그대로의 해변, 흥미로운 관광 명소와 열대 풍경을 가진 ‘즐거움의 나라’ 센토사는 여러분의 마음을 사로잡을 것입니다."
+	},
+	{
+		"id": 4,
+		"type": "spot",
+		"thumbnail_path": "./images/littleindia.jpeg",
+		"title": "리틀 인디아",
+		"description": "생기 넘치는 문화부터 놀라운 쇼핑 경험까지 싱가포르 내 인도 커뮤니티의 정수만을 보여주는 활기차고 역사적인 장소입니다."
+	},
+	{
+		"id": 5,
+		"type": "activity",
+		"thumbnail_path": "./images/uss.jpeg",
+		"title": "유니버셜 스튜디오 싱가포르",
+		"description": "화창한 리조트 섬 센토사에서 영화의 세계로 들어가 세계적으로 인정받는 테마파크 유니버설 스튜디오 싱가포르를 경험해 보세요."
+	},
+	{
+		"id": 6,
+		"type": "activity",
+		"thumbnail_path": "./images/qinggay.jpeg",
+		"title": "칭게이 퍼레이드",
+		"description": "화려하게 장식된 수레와 축제 분위기를 만끽할 수 있는 칭게이 퍼레이드는 싱가포르의 다문화 유산을 가장 생동감이 넘치게 보여주는 쇼입니다."
+	},
+	{
+		"id": 7,
+		"type": "activity",
+		"thumbnail_path": "./images/mountfaberpark.jpeg",
+		"title": "마운트 페이버 파크",
+		"description": "멋진 다이닝과 엔터테인먼트 명소가 모여 있는 마운트 페이버(Mount Faber)의 언덕 정상까지 케이블 카를 타고 올라가는 경험은 색다른 즐거움을 선사합니다."
+	},
+	{
+		"id": 8,
+		"type": "activity",
+		"thumbnail_path": "./images/singaporeflyer.jpeg",
+		"title": "싱가포르 플라이어",
+		"description": "맑은 날에는 말레이시아와 인도네시아 일부까지 보이고, 360도 파노라마로 싱가포르 시티 뷰를 볼 수 있는 거대한 관람차입니다."
+	},
+	{
+		"id": 9,
+		"type": "food",
+		"thumbnail_path": "./images/chilicrab.jpeg",
+		"title": "칠리 크랩",
+		"description": "칠리 크랩은 육즙이 많은 게살을 볶아 톡 쏘는 그레이비 소스로 양념을 낸 음식으로 곳곳에서 즐기실 수 있습니다."
+	},
+	{
+		"id": 10,
+		"type": "food",
+		"thumbnail_path": "./images/laksa.jpeg",
+		"title": "락사",
+		"description": "락사 수프는 향신료와 코코넛 밀크가 적절히 조화되어 독특하고 맛이 뛰어난 누들수프입니다."
+	},
+	{
+		"id": 11,
+		"type": "food",
+		"thumbnail_path": "./images/kayatoast.jpeg",
+		"title": "카야 토스트",
+		"description": "바삭바삭하며 설탕이 들어간 카야 토스트는 단것을 좋아하는 사람들에게 최고의 간식입니다."
+	},
+	{
+		"id": 12,
+		"type": "food",
+		"thumbnail_path": "./images/hokienprownme.jpeg",
+		"title": "호키엔 프론 미",
+		"description": "간단한 볶음면 요리인 호키엔 프론 미는 새우 육수의 풍미 때문에 한번 맛본 사람들을 다시 찾아오게 만드는 매력이 있습니다."
+	},
+	{
+		"id": 13,
+		"type": "shopping",
+		"thumbnail_path": "./images/tigerbalm.jpeg",
+		"title": "타이거 밤",
+		"description": "대부분의 편의점과 슈퍼마켓에서 찾을 수 있는 전통 연고 타이거 밤으로 상처와 통증을 완화해 보세요."
+	},
+	{
+		"id": 14,
+		"type": "shopping",
+		"thumbnail_path": "./images/yakunkaya.jpeg",
+		"title": "야 쿤 카야",
+		"description": "버터 가득한 카야로 사랑받는 아침 식사 단짝인 야쿤 카야 토스트(Ya Kun Kaya Toast)에서 가져온 잼으로 나만의 토스트를 만들어 보세요."
+	},
+	{
+		"id": 15,
+		"type": "shopping",
+		"thumbnail_path": "./images/twg.jpeg",
+		"title": "TWG 티",
+		"description": "싱가포르 자체 생산의 고급 차 브랜드이자 티 살롱 중 한 곳인 TWG에서 선택하신 블렌드가 담긴 아름다운 양철 용기나 이국적 잎차가 담긴 상자를 골라 보세요."
+	},
+	{
+		"id": 16,
+		"type": "shopping",
+		"thumbnail_path": "./images/euyansang.jpeg",
+		"title": "유 얀 상",
+		"description": "유명 전통 한약재 매장인 유 얀 상 은 감기와 독감에서 고혈압과 심혈관 질환에 이르기까지 모든 질병에 효과적인 것으로 입증된 수많은 한약재를 보유하고 있습니다."
+	}
+]
