@@ -15,6 +15,10 @@ body {
 	box-sizing: border-box;
 }
 
+a {
+	text-decoration: none;
+}
+
 header {
 	display: flex;
 	justify-content: center;
@@ -42,13 +46,19 @@ aside {
 }
 
 aside > a {
+	display: flex;
+	justify-content: space-around;
 	font-size: 1.2rem;
 	font-weight: 500;
-	color: #fff;
 	text-decoration: none;
 	border-radius: 5px;
 	text-decoration: none;
+	margin: 5px;
 	padding: 5px;
+}
+
+aside > a > span {
+	color: #fff;
 }
 
 .container {
