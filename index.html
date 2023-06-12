@@ -41,6 +41,7 @@
 		</header>
 		<main>
 			<aside>
+				<button class="add-btn">ADD</button>
 				<a href="#">
 					<i class="fas fa-regular fa-location-dot" style="color: #fff;"></i>
 					<span>볼거리</span>
@@ -101,6 +102,25 @@
 				</div>
 			</section>
 		</main>
+		<div class="modal-dimmed">
+			<form class="modal" id="add-form">
+				<i class="fas fa-regular fa-xmark fa-xl modal-close-btn"></i>
+				<label for="title">
+					타이틀
+				</label>
+				<input type="text" id="title" placeholder="타이틀 입력" required>
+				<label for="image">
+					이미지
+				</label>
+				<input type="text" id="image" placeholder="이미지 URL" required>
+				<label for="description">
+					설명
+				</label>
+				<input type="text" id="description" placeholder="설명 입력" required>
+				<button type="submit" class="submit-btn">SAVE</button>
+				</form>
+			</div>
+		</div>
 		<footer>Copyright © 2023 devsoladev. All rights reserved.</footer>
 		<!-- <script src="./script.js" type="module"></script> -->
 	</body>
