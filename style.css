@@ -57,7 +57,7 @@ main {
 	flex: 1;
 	display: flex;
 	background-color: var(--ivory);
-	overflow-y: auto;
+	overflow: visible;
 	padding: 20px;
 }
 
@@ -148,9 +148,10 @@ aside > a > span {
 	height: 450px;
 	padding: 30px;
 	border-radius: 5px;
+	z-index: 10;
 }
 
-.modal-close-btn {
+.close-btn {
 	position: absolute;
 	top: 2%;
 	right: 0;
